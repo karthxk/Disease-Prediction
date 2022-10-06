@@ -1,0 +1,47 @@
+body {
+  background-color: #000000;
+}
+
+.header {
+  padding: 5px 120px;
+  width: 150px;
+  height: 70px;
+}
+
+.border {
+  padding: 80px 10px;
+  width: 400px;
+  height: 450px;
+  border-radius: 20px;
+  background-color: #141414;
+}
+
+.btn {
+  padding: 10px 40px;
+  background-color: red;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.textbox {
+  padding: 10px 40px;
+  background-color: #333333;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.headings {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.bottom {
+  color: #737373;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+.bottom > a {
+  color: #ffffff;
+}
