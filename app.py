@@ -20,3 +20,8 @@ def register():
 @app.route("/home")
 def home():
     return render_template("index.html")
+
+
+@app.route("/trial")
+def trial():
+    return render_template("trial.html")
